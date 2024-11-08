@@ -1,0 +1,5 @@
+6 Plain_Egg                  $8.70
+3 Bacon_and_Eggs             $7.35
+4 French_Toast               $7.96
+  Tax                      $1.20
+  Amount Due               $25.21
